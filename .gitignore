@@ -6,3 +6,4 @@
 2/src/.idea/
 *.zip
 2/src/runs/
+2/src/__pycache__/
