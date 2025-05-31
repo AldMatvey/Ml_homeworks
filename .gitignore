@@ -3,4 +3,6 @@
 *.csv
 2/logs/
 2/models/
-2/src/.idea
+2/src/.idea/
+*.zip
+2/src/runs/
